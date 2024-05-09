@@ -1,0 +1,1 @@
+gcc *.c -o *.exe -I ..\include -L ..\lib -lmy
